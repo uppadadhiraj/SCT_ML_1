@@ -3,7 +3,7 @@ This project is part of **Task 01** of the SkillCraft Technology internship prog
 
 - Square footage (`GrLivArea`)
 - Number of bedrooms (`BedroomAbvGr`)
-- Number of full bathrooms (`TotalBathrooms`)
+- Number of bathrooms (`TotalBathrooms`)
 
 ## 📌 Technologies Used
 
